@@ -1,6 +1,6 @@
-baseurl = "https://example.com"
+baseurl = "https://wreda.github.io/"
 title = "Academic"
-copyright = "&copy; 2016 Your Name"
+copyright = "&copy; 2017 Waleed Reda"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -19,16 +19,16 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  name = "Waleed Reda"
+  role = "PhD student in Computer Science"
+  organization = "Royal Institute of Technology & Catholic University of Louvain"
   organization_url = ""
   avatar = "portrait.jpg"
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "wfhsr@kth.se"
+  address = "Isafjordsgatan 26, 164 40 Kista, Stockholm, Sweden"
+  office_hours = "Appointments by email"
+  #phone = "888 888 88 88"
+  #skype = "echo123"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -125,22 +125,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "mailto:wfhsr@kth.se"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.se/citations?user=HfibOt0AAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/wreda"
 
 
 # Navigation Links
@@ -162,11 +157,6 @@ defaultContentLanguageInSubdir = false
   name = "Posts"
   url = "#posts"
   weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
 
 [[menu.main]]
   name = "Teaching"
