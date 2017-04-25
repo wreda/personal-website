@@ -21,7 +21,7 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Waleed Reda"
   role = "PhD student in Computer Science"
-  organization = "Royal Institute of Technology & Catholic University of Louvain"
+  organization = "Université catholique de Louvain & Royal Institute of Technology"
   organization_url = ""
   avatar = "portrait.jpg"
   email = "wfhsr@kth.se"
